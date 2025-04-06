@@ -7,4 +7,4 @@ After observing SAiDL's work, in its projects and research, I've been impressed 
 I think it would be a brilliant place to grow in the field and make contributions to it,
 furthermore I am certain my goals and enthusiasm align well with SAiDLs and I believe that I have the potential to become a valuable member of SAiDL.
 
-suggestions: frankly, since I don't know if the problems I faced were by design or not, I can't as of yet give any worthwhile suggestions.
+suggestions: frankly, since I don't know if the problems I faced were by design or not, I can't as of yet give any suggestions.
